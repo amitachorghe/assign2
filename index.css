@@ -1,0 +1,33 @@
+input{
+    display: inline-block;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    
+    
+}
+h3{
+    font-weight: 200;
+    color: rgb(38, 3, 43);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+form{
+    border: 5px solid #f1f1f2;
+    text-align: center;
+    background-color: #b687b3;
+    margin: 70px 600px;
+    padding-bottom: 10px;
+}
+button{
+    background-color: firebrick;
+    color: whitesmoke;
+    cursor: pointer;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(121, 105, 121);
+    
+
+}
